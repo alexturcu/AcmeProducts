@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "acmeproducts"
+    }
+  },
+  "defaultProject": "acmeproducts",
+  "cli": {
+    "analytics": false
+  }
 }
